@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Keep/Label/Autonomismo #Keep/Color/Purple 
 
 Limite da [[ignorância]] e passividade
